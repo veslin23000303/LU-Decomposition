@@ -26,16 +26,14 @@ a = np.array(eval(input()))
 P,L,U=lu(a)
 print(L)
 print(U)
+```
 (ii) To find the LU Decomposition of a matrix
 ```
+
 
 Program to find the LU Decomposition of a matrix.
 Developed by: VESLIN ANISH
 RegisterNumber:212223240175 
-'''Program to solve a matrix using LU decomposition.
-Developed by: VESLIN ANISH
-RegisterNumber: 212223240175
-'''
 
 # To print X matrix (solution to the equations)
 import numpy as np
